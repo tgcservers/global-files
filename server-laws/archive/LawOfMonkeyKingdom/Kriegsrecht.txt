@@ -1,0 +1,250 @@
+Die Serveradministration kann bei Einstimmigkeit Ausnahmen beschließen. Es liegt zudem bei der Serveradministration, zu beurteilen, ob gegen die Regeln, die ein subjektives Urteil erfordern, verstoßen wurde.
+
+Kriegsbeginn
+1. Man darf nur einen Krieg gegen Mitspieler pro Monat führen
+2. Gegen unbesetzte Länder hat man pro Monat 3 Kriegspunkte frei (siehe Kriegspunkte)
+3. Man muss dem Staat, den man angreifen möchte, den Krieg erklären, damit dieser informiert ist, dass er kämpfen soll
+4. Es müssen neutrale Parteien ermittelt werden, die den Krieg von außen betrachten können
+5. Gibt es keine, die als neutrale Beobachter akzeptiert werden, so muss eine indirekt verwickelte Partei (Bündnisparteien zum Beispiel) aus dem Krieg austreten und neutral beobachten.
+6. Zu Beginn müssen beide Parteien Bedingungen aushandeln, die zum Ende des Kriegs eintreten wenn der Verteidiger 
+7. Können die Parteien sich innerhalb einer Woche nach Kriegserklärung nicht einigen, darf der Verteidiger die Bedingungen diktieren
+8. Hat der Verteidiger die Verhandlungen aus Sicht der neutralen Partei absichtlich behindert, diktiert der Angreifer die Bedingungen
+9. Die Bedingungen müssen immer verhältnismäßig sein
+10. Hat der Verteidiger unentschuldigt bei allen Verhandlungen innerhalb dieser Woche gefehlt, beginnt der Krieg ohne Verhandlungen
+11. Man darf keine unbesetzten Länder während eines laufenden Kriegs einnehmen
+12. Man darf zu jeder Zeit unbesetzte Gebiete serverrechtlich ohne militärische Aktion besetzen, sofern man einen rechtmäßigen Anspruch nachweisen kann, da das Gebiet in echt dem Staat gehört
+
+
+Kriegspunkte
+1. Kriegspunkte sind eine Einheit, um zu ermitteln, wie viele Kriege pro Monat gegen unbesetzte Länder geführt werden können
+2. Sie sind eine Methode, um zu verhindern, dass man gegen riesige Länder genauso oft kämpfen kann, wie gegen winzige Länder
+3. Am Ende des Monats wird die Zahl der Kriegspunkte nicht zurückgesetzt
+4. Die Zahl der Kriegspunkte, die für ein Land benötigt werden, finden sich in einer nachfolgenden Liste
+
+Kriegsführung
+1. Man kann nur Länder angreifen, die direkt an eine Durchgangspassage angrenzen
+2. Eine Durchgangspassage bezeichnet einen Weg, den die eigenen Truppen durch serverrechtlich besetzte (siehe Besatzung) Gebiete legal nutzen können
+3. Legal ist es, wenn es entweder das eigene Gebiet ist, das Gebiet eines Staats, der die Erlaubnis gibt, dass man mit den Truppen den Weg nutzen darf
+4. Als Durchgangspassage gilt auch das nächstgelegene Stück Land (egal ob Insel oder Festland), das man erreichen kann und legal durchqueren kann
+5. Man darf ebenfalls das Gebiet des Staats legal betreten, dem man den Krieg erklärt hat
+6. Im Angegriffenen Gebiet muss man ebenfalls die Regionen erobern, die auf dem Weg zum Ziel liegen
+
+Besatzung
+1. Als besetzt gilt jedes Gebiet, das man mit Truppen erfolgreich einnehmen konnte
+2. Wurde dieses nicht verteidigt, gilt es ebenfalls als eingenommen
+3. Als serverrechtlich besetzt gilt jedes Gebiet, das von der Administration einem Staat als rechtmäßig erlangtes Gebiet anerkannt wird
+
+Sieg
+1. Gewonnen hat man eine Region, sofern man mindestens 1/2 ihrer Städte und ihre Hauptstadt eingenommen hat (diese zählt zur Hälfte der Städte hinzu)
+2. Ist das Ziel eines Kriegs nicht ein ganzer Staat, so reicht es, die geforderten Regionen einzunehmen
+3. Einen Staat hat man eingenommen, sofern man mindestens 2/3 seiner Regionen und die Hauptstadt eingenommen hat (diese zählt je nach rechtlichem Status entweder ebenfalls als eine der 2/3 Regionen oder nicht)
+4. Gewonnen hat man einen Verteidigungskrieg, sofern der Gegner nicht in der Lage war, die besetzten Gebiete zu halten oder überhaupt einzunehmen
+5. Eine Schlacht gilt als gewonnen, wenn alle Gegner tot sind
+6. Eine Besatzungszone gilt als verloren, sofern man sie nach den erforderlichen plus drei zusätzliche Schlachten Schlachten nicht einnehmen oder zurückerobern konnte
+7. Als erforderliche Schlacht gilt jede Schlacht, die dazu dient, die Bedingungen direkt zu erfüllen, sprich zum Beispiel der Angriff einer bestimmten Stadt innerhalb einer Region, damit man diese einnimmt
+8. Der sofortige Sieg erfolgt auch, sofern ein Staat dessen Kapitulation öffentlich bekanntgibt
+9. Der Krieg kann nicht in Abwesenheit der Soldaten eines Staats geführt werden
+10. Es muss mehr als die Hälfte anwesend sein
+11. Erfolgte innerhalb von zwei aufeinanderfolgenden Wochen aus unentschuldigten Gründen keine nennenswerte Kampfhandlung von einem Staat oder sind dessen Truppen in dieser Zeit abwesend gewesen, so hat dieser verloren, sofern es der Verteidiger ist
+12. Hat man einen Krieg rechtmäßig gewonnen, so wird einem das Gebiet, das man erobern wollte, serverrechtlich zugesprochen
+
+Städte
+1. Als Stadt gilt jede, öffentlich als solche gekennzeichnete Stadt
+2. Als öffentlich gekennzeichnet gilt sie, wenn man ihre Position in #world-smp-national-infos geteilt hat oder nachweislich der anderen Kriegspartei diese hat zukommen lassen
+3. Außenposten müssen nicht öffentlich gekennzeichnet werden
+4. Der Hauptaußenposten einer Region gilt als Stadt
+5. Als Stadt oder Außenposten gelten nur gebaute Städte und Außenposten, die über eine angemessene Größe verfügen
+6. Wurde eine Stadt innerhalb der zwei Monate nach Bekanntgabe ihrer Existenz nicht errichtet, fällt ihr Status als Stadt weg
+7. Eine reine Bekanntgabe der Position eines Außenpostens reicht nicht aus, um diesen gültig zu erklären
+8. Der Unterschied zwischen einem Außenposten und einer Stadt ist dieser, dass ein Außenposten lediglich diplomatischer oder militärischer Zwecke dient
+9. Die Karte einer Stadt muss ebenfalls öffentlich zugänglich sein
+10. Es gelten nur die Teile einer Stadt als Stadt, die von einem Staat als solche anerkannt werden
+11. Die Hauptstadt darf nur einmal im Jahr umverlegt werden
+12. Eine gebaute Stadt und ein gebauter Außenposten ist erst dann gültig, wenn sie alle Anforderungen dieses Abschnitts erfüllt
+13. Dies gilt auch für geplante Städte
+14. Gründungen können nicht während eines Kriegs erfolgen
+15. Man darf nicht zu viele Städte gleichzeitig gründen
+
+
+
+
+KRIEGSPUNKTELISTE
+!!!Achtung: In der folgenden Liste werden ebenfalls serverrechtlich besetzte Gebiete erwähnt, auf diese können die Punkte allerdings nicht angewendet werden!!!
+
+Russland:9
+Kanada:9
+Vereinigte Staaten:9
+Volksrepublik China:9
+Brasilien:9
+Australien:9
+Indien:5
+Argentinien:4
+Kasachstan:4
+Algerien:3
+Demokratische Republik Kongo:3
+Saudi-Arabien:3
+Mexiko:3
+Indonesien:2
+Sudan:2
+Libyen:2
+Iran:2
+Mongolei:2
+Peru:2
+Tschad:2
+Niger:2
+Angola:1
+Mali:1
+Südafrika:1
+Kolumbien:1
+Äthiopien:1
+Bolivien:1
+Mauretanien:1
+Ägypten:1
+Tansania:1
+Nigeria:1
+Venezuela:1
+Pakistan:1
+Namibia:1
+Mosambik:1
+Türkei:1
+Chile:1
+Sambia:1
+Myanmar:1
+Afghanistan:1
+Südsudan:1
+Frankreich:1
+Zentralafrikanische Republik:1
+Ukraine:1
+Madagaskar:1
+Botswana:1
+Kenia:1
+Jemen:1
+Thailand:1
+Spanien:1
+Kamerun:1
+Papua-Neuguinea:1
+Schweden:1
+Usbekistan:1
+Marokko:1
+Irak:1
+Paraguay:1
+Simbabwe:1
+Norwegen:1
+Japan:1
+Deutschland:1
+Republik Kongo:1
+Finnland:1
+Vietnam:1
+Malaysia:1
+Elfenbeinküste:1
+Polen:1
+Oman:1
+Italien:1
+Philippinen:1
+Burkina Faso:1
+Neuseeland:1
+Gabun:1
+Ecuador:1
+Guinea:1
+Vereinigtes Königreich:1
+Uganda:1
+Ghana:1
+Rumänien:1
+Laos:1
+Guyana:1
+Weißrussland:1
+Kirgisistan:1
+Senegal:1
+Syrien:1
+Kambodscha:1
+Uruguay:1
+Suriname:1
+Tunesien:1
+Georgia:1
+Bangladesch:1
+Nepal:1
+Tadschikistan:1
+Griechenland:1
+Nicaragua:1
+Nordkorea:1
+Malawi:1
+Eritrea:1
+Benin:1
+Honduras:1
+Liberia:1
+Bulgarien:1
+Kuba:1
+Guatemala:1
+Island:1
+Südkorea:1
+Ungarn:1
+Portugal:1
+Jordanien:1
+Serbien:1
+Aserbaidschan:1
+Österreich:1
+Vereinigte Arabische Emirate:1
+Tschechien:1
+Panama:1
+Sierra Leone:1
+Irland:1
+Sri Lanka:1
+Litauen:1
+Lettland:1
+Togo:1
+Kroatien:1
+Bosnien und Herzegowina:1
+Costa Rica:1
+Slowakei:1
+Dominikanische Republik:1
+Estland:1
+Dänemark:1
+Niederlande:1
+Schweiz:1
+Bhutan:1
+Taiwan:1
+Guinea-Bissau:1
+Republik Moldau:1
+Belgien:1
+Lesotho:1
+Armenien:0
+Albanien:0
+Salomonen:0
+Äquatorialguinea:0
+Burundi:0
+Haiti:0
+Ruanda:0
+Nordmazedonien:0
+Belize:0
+El Salvador:0
+Israel:0
+Slowenien:0
+Kuwait:0
+Eswatini:0
+Osttimor:0
+Montenegro:0
+Puerto Rico:0
+Vanuatu:0
+Katar:0
+Jamaika:0
+Kosovo:0
+Gambia:0
+Libanon:0
+Republik Zypern:0
+Brunei:0
+Trinidad und Tobago:0
+Kap Verde:0
+Samoa:0
+Luxemburg:0
+Mauritius:0
+Komoren:0
+Hongkong:0
+São Tomé und Príncipe:0
+Bahrain:0
+Tonga:0
+Singapur:0
+Seychellen:0
+Palau:0
+Malta:0
+Malediven:0
+Macau:0
